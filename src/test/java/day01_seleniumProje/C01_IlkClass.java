@@ -11,7 +11,8 @@ public class C01_IlkClass {
         //ikincisi ise bu driverin fiziki yolu:
         System.setProperty("webdriver.chrome.driver","src/resources/drivers/chromedriver.exe");
                 WebDriver driver= (WebDriver) new ChromeDriver();
-        System.out.println("Hello world");
+
+        System.out.println("Test manager Ahmet Kaya");
 
 
 
